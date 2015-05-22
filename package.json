@@ -1,0 +1,27 @@
+{
+  "name": "toml-loader",
+  "version": "1.0.0",
+  "description": "TOML loader for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KyleAMathews/toml-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "webpack-loader",
+    "toml"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KyleAMathews/toml-loader/issues"
+  },
+  "homepage": "https://github.com/KyleAMathews/toml-loader#readme",
+  "dependencies": {
+    "toml": "^2.2.2"
+  }
+}
