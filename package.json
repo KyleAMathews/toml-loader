@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/KyleAMathews/toml-loader#readme",
   "dependencies": {
-    "toml": "^2.2.2"
+    "toml": "^3.0.0"
   }
 }
